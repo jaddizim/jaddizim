@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaddizim
 - 👀 I’m interested in Back-End Software Development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java, SpringBoot and MySQL
 - 📫 Reach me at jaddizim@gmail.com
 
 <!---
